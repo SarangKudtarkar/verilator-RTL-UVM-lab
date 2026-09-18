@@ -1,0 +1,6 @@
+Verilator:
+Verilator 5.052 2026-09-05 rev v5.052
+UVM commit:
+1eab10a7995c7846dcad7305b995ddb265880433
+UVM branch:
+uvm-2020-3.2-vlt
